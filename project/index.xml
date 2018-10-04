@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Bai Hei</title>
+    <link>https://heibaibai.github.io/project/</link>
+    <description>Recent content in Projects on Bai Hei</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://heibaibai.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DNA</title>
+      <link>https://heibaibai.github.io/project/dna/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://heibaibai.github.io/project/dna/</guid>
+      <description>I began to produce data for this project from January 2017. We calculated the long-range correlation of DNA sequences of different creatures and are analyzing the different actions of diverse base-pairs, the relationship of correlation length and phase separation of chromosome, and the relationship of correlation length and gradient and biological properties like longevity and incubation temprature.
+This project is supported by Beijing Training Program of Innovation and Entrepreneurship for Undergraduates.</description>
+    </item>
+    
+    <item>
+      <title>Influenza</title>
+      <link>https://heibaibai.github.io/project/influenza/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://heibaibai.github.io/project/influenza/</guid>
+      <description>During summer 2018, I worked with Prof. Michael W. Deem on prediction of vaccine efficacy as a visiting undergraduate researcher at Rice University, Houston, TX.
+We combined pEpitope theory with generalized NK model (both are developed by Deem&amp;rsquo;s group) in different ways and find a method to predict vaccine efficacy of H3N2 just from sequence information and statistical mechanical model. It is a pretty good prediction with an r-squared equals to 0.</description>
+    </item>
+    
+  </channel>
+</rss>

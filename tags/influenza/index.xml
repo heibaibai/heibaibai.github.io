@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Influenza on Bai Hei</title>
+    <link>https://heibaibai.github.io/tags/influenza/</link>
+    <description>Recent content in Influenza on Bai Hei</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://heibaibai.github.io/tags/influenza/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Influenza</title>
+      <link>https://heibaibai.github.io/project/influenza/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://heibaibai.github.io/project/influenza/</guid>
+      <description>During summer 2018, I worked with Prof. Michael W. Deem on prediction of vaccine efficacy as a visiting undergraduate researcher at Rice University, Houston, TX.
+We combined pEpitope theory with generalized NK model (both are developed by Deem&amp;rsquo;s group) in different ways and find a method to predict vaccine efficacy of H3N2 just from sequence information and statistical mechanical model. It is a pretty good prediction with an r-squared equals to 0.</description>
+    </item>
+    
+  </channel>
+</rss>
