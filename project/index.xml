@@ -18,7 +18,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0800</pubDate>
       
       <guid>https://heibaibai.github.io/project/dnamd/</guid>
-      <description>The whole project is aimed to find the mechanism of DNA recognition and catalysis for HHaI, a DNA methylase. I just participated in the beginning part to simulate DNA base-flipping use Amber 14 with an enhanced sampling method, SITS. This project gave me another perspective on researching biological systems.</description>
+      <description>The whole project is aimed to find the mechanism of DNA recognition and catalysis for HHaI, a DNA methylase. I am one of the team members to simulate DNA base-flipping using Amber 14 with an enhanced sampling method, SITS. This project gave me another perspective on researching biological systems.</description>
     </item>
     
     <item>
@@ -27,7 +27,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0800</pubDate>
       
       <guid>https://heibaibai.github.io/project/dna/</guid>
-      <description>I began to produce data for this project from January 2017. We calculated the long-range correlation of DNA sequences of different creatures and are analyzing the different actions of diverse base-pairs, the relationship of correlation length and phase separation of chromosome, and the relationship of correlation length and gradient and biological properties like longevity and incubation temperature.
+      <description>I began to produce data for this project from January 2017. We calculated the long-range correlation of DNA sequences of different creatures, and we analyzed the relationship of correlation length and gradient, chromosome structure and biological properties like longevity, evolution stage and incubation temperature.
 This project is supported by Beijing Training Program of Innovation and Entrepreneurship for Undergraduates.</description>
     </item>
     
@@ -38,7 +38,8 @@ This project is supported by Beijing Training Program of Innovation and Entrepre
       
       <guid>https://heibaibai.github.io/project/influenza/</guid>
       <description>During summer 2018, I worked with Prof. Michael W. Deem on prediction of vaccine efficacy as a visiting undergraduate researcher at Rice University, Houston, TX.
-We combined pEpitope theory with generalized NK model (both are developed by Deem&amp;rsquo;s group) in different ways and find a method to predict vaccine efficacy of H3N2 just from sequence information and statistical mechanical model. It is a pretty good prediction with an r-squared equals to 0.</description>
+We combined pEpitope theory with generalized NK model in different ways and developed a method to predict vaccine efficacy of H3N2 just from sequence information and statistical mechanical model with high accuracy. It is a pretty good prediction with an r-squared equals to 0.91.
+I presented a poster about this project in the 4th Annual Smalley-Curl Institute(SCI) Summer Research Colloquium and a paper for it is in progress to illustrate the results.</description>
     </item>
     
   </channel>
